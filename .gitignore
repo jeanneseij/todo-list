@@ -1,0 +1,12 @@
+# Django ignores
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+venv/
+
+# React ignores
+node_modules/
+build/
+.env.local
+.env.production
